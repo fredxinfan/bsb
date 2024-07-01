@@ -43,6 +43,7 @@
   "814": "Credit Union Australia Ltd (trading as Great Southern Bank)",
   "834": "GSB Credit Union Australia Ltd (trading as Great Southern Bank)",
   "80": "Cuscal Limited",
+  "671": "HPC Cuscal Limited",
   "889": "DBS Bank Ltd. (Australia Branch)",
   "41": "Deutsche Bank Aktiengesellschaft",
   "833": "Defence Bank Limited",
@@ -69,7 +70,6 @@
   "819": "Industrial and Commercial Bank of China Limited",
   "923": "ING Bank (Australia) Limited (trading as ING)",
   "936": "ING Bank, NV (Sydney Branch)",
-  "690": "Islamic Bank Australia Pty Ltd",
   "21": "JP Morgan Chase Bank, National Association",
   "725": "Judo Bank Pty Ltd",
   "323": "KEB Hana Bank",
@@ -79,6 +79,7 @@
   "313": "Bank Australia Limited",
   "931": "Mega International Commercial Bank Co, Ltd",
   "918": "Mizuho Bank, Ltd",
+  "257": "Monoova Payments Pty Ltd",
   "969": "Tyro Payments Limited",
   "08": "National Australia Bank Limited",
   "650": "Newcastle Greater Mutual Group Ltd",
@@ -95,6 +96,7 @@
   "932": "Regional Australia Bank Limited",
   "721": "HCC Regional Australia Bank Limited",
   "09": "Reserve Bank of Australia",
+  "772": "Revolut Payments Australia Pty Ltd",
   "655": "MyState Bank Limited",
   "43": "Standard Chartered Bank, Australia Branch",
   "722": "Southern Cross Credit Union Ltd",
@@ -125,5 +127,5 @@
   "55": "BML Bank of Melbourne (a division of Westpac Banking Corp)",
   "817": "Warwick Credit Union Ltd",
   "774": "Wise Australia Pty Ltd",
-  "670": "86400 Holdings Pty Ltd (Acquired by NAB)"
+  "670": "National Australia Bank Limited"
 }
